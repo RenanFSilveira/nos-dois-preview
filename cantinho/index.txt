@@ -1,0 +1,23 @@
+1:"$Sreact.fragment"
+2:I[7555,[],""]
+3:I[1295,[],""]
+4:I[6874,["874","static/chunks/874-5813d5d2837f37d0.js","620","static/chunks/app/(paired)/layout-39d4be1a6244a733.js"],""]
+5:I[894,[],"ClientPageRoot"]
+6:I[4011,["874","static/chunks/874-5813d5d2837f37d0.js","13","static/chunks/app/(single)/cantinho/page-580c8249a4916e1f.js"],"default"]
+9:I[9665,[],"OutletBoundary"]
+c:I[4911,[],"AsyncMetadataOutlet"]
+e:I[9665,[],"ViewportBoundary"]
+10:I[9665,[],"MetadataBoundary"]
+12:I[6614,[],""]
+:HL["/nos-dois-preview/_next/static/css/aaae547471519e88.css","style"]
+0:{"P":null,"b":"Lyy_UjjeFJZRRslkB1ZtT","p":"/nos-dois-preview","c":["","cantinho",""],"i":false,"f":[[["",{"children":["(single)",{"children":["cantinho",{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/nos-dois-preview/_next/static/css/aaae547471519e88.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"pt-BR","className":"dark","children":["$","body",null,{"children":["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","main",null,{"className":"flex min-h-dvh flex-col items-center justify-center bg-background-deep px-4","children":["$","div",null,{"className":"text-center","children":[["$","h1",null,{"className":"font-display text-6xl font-bold text-vinho-800","children":"404"}],["$","p",null,{"className":"mt-4 text-zinc-400","children":"Página não encontrada"}],["$","$L4",null,{"href":"/","className":"btn-primary mt-6 inline-block","children":"Voltar ao início"}]]}]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]}]]}],{"children":["(single)",["$","$1","c",{"children":[null,["$","div",null,{"className":"min-h-dvh bg-background-base","children":[["$","header",null,{"className":"flex items-center justify-between border-b border-zinc-800 px-4 py-3","children":[["$","$L4",null,{"href":"/","className":"font-display text-xl font-bold text-vinho-800","children":"Nós Dois"}],["$","span",null,{"className":"rounded-full bg-background-card px-3 py-1 text-xs text-zinc-400","children":"📱 Um celular"}]]}],["$","main",null,{"className":"px-4 py-6","children":["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]}]]}]]}],{"children":["cantinho",["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":[["$","$L5",null,{"Component":"$6","searchParams":{},"params":{},"promises":["$@7","$@8"]}],null,["$","$L9",null,{"children":["$La","$Lb",["$","$Lc",null,{"promise":"$@d"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,["$","$1","Yetyu2WdvBm8NBjEUXwuGv",{"children":[["$","$Le",null,{"children":"$Lf"}],null]}],["$","$L10",null,{"children":"$L11"}]]}],false]],"m":"$undefined","G":["$12","$undefined"],"s":false,"S":true}
+13:"$Sreact.suspense"
+14:I[4911,[],"AsyncMetadata"]
+7:{}
+8:{}
+11:["$","div",null,{"hidden":true,"children":["$","$13",null,{"fallback":null,"children":["$","$L14",null,{"promise":"$@15"}]}]}]
+b:null
+f:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no"}],["$","meta","2",{"name":"theme-color","content":"#722F37"}]]
+a:null
+d:{"metadata":[["$","title","0",{"children":"Nós Dois"}],["$","meta","1",{"name":"description","content":"O app do seu casal"}],["$","link","2",{"rel":"manifest","href":"/manifest.json","crossOrigin":"$undefined"}],["$","meta","3",{"name":"format-detection","content":"telephone=no"}],["$","meta","4",{"name":"mobile-web-app-capable","content":"yes"}],["$","meta","5",{"name":"apple-mobile-web-app-title","content":"Nós Dois"}],["$","meta","6",{"name":"apple-mobile-web-app-status-bar-style","content":"black-translucent"}]],"error":null,"digest":"$undefined"}
+15:{"metadata":"$d:metadata","error":null,"digest":"$undefined"}
